@@ -1,4 +1,5 @@
-streamlit==0.88.0
+streamlit
 tensorflow-cpu
-Pillow==8.2.0
-numpy==1.19.5
+Pillow
+numpy
+protobuf
